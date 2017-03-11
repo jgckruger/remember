@@ -1,0 +1,21 @@
+"pt-BR":
+  activerecord:
+    models:
+      annotation: Anotação # pluralizará errado
+      friend: Amigo
+    attributes:
+      annotation:
+        id: "Identificador"
+        title: "Título"
+        body: "Corpo"
+        created_at: "Criado em"
+        updated_at: "Atualizado em"
+      friend:
+        id: "Identificador"
+        name: "Nome"
+        address: "Endereço"
+        email: "email"
+        phone: "Telefone"
+        birthday: "Data de Nascimento"
+        created_at: "Criado em"
+        updated_at: "Atualizado em"
